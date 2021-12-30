@@ -27,11 +27,11 @@ python core/main.py
 
 Configuration
 -----
-You can configure the script by editing the `[config](https://github.com/Loe159/TSP/tree/master/data)` file.
+You can configure the script by editing the [config](https://github.com/Loe159/TSP/tree/master/data) file.
 
 If you want to use your own cities :
 1. Change the `cities` variable with your cities list.
 2. Change the `search_distances` variable to **True**
 3. Fill the `mapquest_key` variable with your MapQuest API key.
-4. Delete the `[distances.json](https://github.com/Loe159/TSP/blob/master/data/distances.json)` file.
+4. Delete the [distances.json](https://github.com/Loe159/TSP/blob/master/data/distances.json) file.
 5. Run the script 😜
