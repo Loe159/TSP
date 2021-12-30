@@ -27,7 +27,7 @@ python core/main.py
 
 Configuration
 -----
-You can configure the script by editing the [config](https://github.com/Loe159/TSP/tree/master/data) file.
+You can configure the script by editing the [config](https://github.com/Loe159/TSP/tree/master/data/config.py) file.
 
 If you want to use your own cities :
 1. Change the `cities` variable with your cities list.
